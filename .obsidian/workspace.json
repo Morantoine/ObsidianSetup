@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "c0c6924767bf2036",
+    "type": "split",
+    "children": [
+      {
+        "id": "672a5de0b553626e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b0db22bbd4e779c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - templates/dailyNoteTemplate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd62f476ea2ff61e",
+    "type": "split",
+    "children": [
+      {
+        "id": "634c1053cd8bc8cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "171eb653b2a609cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "ee170b97f144b82d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#paper/example",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63f13baff82a02e3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "81174818c2c98186",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d89aeeb710098c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.51103591918945
+  },
+  "right": {
+    "id": "d37d457fdb9bd8dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c9934a849f55fdc",
+        "type": "tabs",
+        "dimension": 26.086956521739133,
+        "children": [
+          {
+            "id": "c9d32269bdec460b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "99 - templates/dailyNoteTemplate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b28be0bbd9e3ddb8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "99 - templates/dailyNoteTemplate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "595cbb6e2107de43",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "99 - templates/dailyNoteTemplate.md"
+              }
+            }
+          },
+          {
+            "id": "851ae12869195b1f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "67d1bc01aecb10dc",
+        "type": "tabs",
+        "dimension": 45.84980237154151,
+        "children": [
+          {
+            "id": "c525f42570d99e19",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "25c58323554f80b4",
+        "type": "tabs",
+        "dimension": 28.06324110671937,
+        "children": [
+          {
+            "id": "a597708999c28cc8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "99 - templates/dailyNoteTemplate.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.584358118056751,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "5b0db22bbd4e779c",
+  "lastOpenFiles": [
+    "99 - daily/15-04-2023.md",
+    "_MOC/Papers_MOC.md",
+    "03 - Papers/@aksin.md",
+    "02 - Programming/Trace alignment.md",
+    "02 - Programming/Trace coloring.md",
+    "SC_MOC.md",
+    "README.md",
+    "_MOC/SC_MOC.md",
+    "03 - Papers/@chenReportPostQuantumCryptography2016.md",
+    "03 - Papers/@simChosenCiphertextClusteringAttack2022.md",
+    "99 - daily/14-04-2023.md",
+    "03 - Papers/Untitled.md",
+    "99 - templates/dailyNoteTemplate.md",
+    "02 - Programming",
+    "@simChosenCiphertextClusteringAttack2022 1.md",
+    "Untitled.md",
+    "99 - templates/noteTemplate.md",
+    "Papers/Untitled.md",
+    "Papers/@simChosenCiphertextClusteringAttack2022 1.md",
+    "zdaily/14-04-2023.md",
+    "zdaily/13-04-2023.md",
+    "Side-Channel/@simChosenCiphertextClusteringAttack2022.md",
+    "Side-Channel/Trace coloring.md",
+    "Side-Channel/Untitled.md",
+    "RELATED MOC.md",
+    "Test idk.md",
+    "_MOC",
+    "03 - Papers",
+    "01 - Side-Channel",
+    "99 - daily",
+    "99 - templates"
+  ]
+}

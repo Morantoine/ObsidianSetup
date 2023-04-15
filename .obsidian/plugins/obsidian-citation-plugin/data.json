@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "03 - Papers",
+  "literatureNoteContentTemplate": "#### [[_MOC/Papers_MOC]]\n\n### {{title}}\n\n**Author**::{{authorString}}\n**Year**::{{year}}\n**Link**::{{URL}}\n**DOI**::{{DOI}}\n**Tags**:: #paper\n**Contribution**:\n**Links**:: \n\n#### Notes ",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/home/antoine/Documents/notes/ObsidianVault/library.bib"
+}

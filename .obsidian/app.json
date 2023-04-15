@@ -1,0 +1,12 @@
+{
+  "vimMode": true,
+  "showInlineTitle": false,
+  "showLineNumber": true,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "./README"
+  ]
+}
